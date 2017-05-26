@@ -1,8 +1,7 @@
-name: "MegaCoder: 1,000,000 Lines of Code"
 markdown: kramdown
 
 title: Megacoder.github.io
-description: Online repository
-google_analytics: 
+description: "MegaCoder: 1,000,000 Lines Of Code"
+google_analytics:
 show_downloads: true
 theme: jekyll-theme-architect
